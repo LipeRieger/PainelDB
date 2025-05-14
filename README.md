@@ -12,6 +12,7 @@ Interface centralizada e intuitiva que permite aos administradores, organizar e 
 - CSS
 - MySQL
 - Visual Studio Code
+- Xampp
 
 
 ## Instruções de uso
